@@ -1,0 +1,11 @@
+{
+  "name": "project-no1",
+  "version": "1.0.0",
+  "description": "A sample Twilio project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jane Doe",
+  "license": "ISC"
+}
